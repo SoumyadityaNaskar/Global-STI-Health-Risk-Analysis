@@ -4,9 +4,7 @@ An interactive Power BI dashboard developed to analyze global Sexually Transmitt
 
 The dashboard combines KPI monitoring, disease distribution analysis, demographic breakdowns, geographic visualization, treatment trend tracking, and business insight generation through dynamic slicers and interactive charts.
 
-![Dashboard Preview](dashboard_screenshot.png)
 
----
 
 ## Project Structure
 
@@ -25,6 +23,8 @@ A 200,000-row synthetic dataset engineered using real-world WHO and UNAIDS stati
 ## KPI Overview
 
 The dashboard presents five key health metrics that provide a quick snapshot of the global STI burden. All KPI cards update dynamically based on the selected filters, enabling focused analysis across different countries, diseases, and time periods.
+
+<img width="265" height="717" alt="image" src="https://github.com/user-attachments/assets/5a70dfa5-4273-4221-b61e-9dcd87159e39" />  
 
 | KPI | Description |
 |---|---|
@@ -50,6 +50,9 @@ These metrics serve as the foundation for evaluating global disease burden, trea
 
 ## Charts & Visualizations
 
+<img width="1188" height="720" alt="image" src="https://github.com/user-attachments/assets/a3f4e786-8fff-40d3-a3be-01fc19dbaf9d" />
+
+
 ### Cases & Death Trends
 
 Tracks the number of new cases and deaths over time from 2015 to 2025. The chart highlights the COVID-19 shock period (2020–2021) where testing dropped globally, followed by a post-COVID surge in 2022–2023. This dual-line trend allows direct comparison of case trajectory against mortality patterns over the decade.
@@ -74,10 +77,6 @@ Displays the total case burden split across three age groups: 15–24, 25–49, 
 
 Ranks all five global regions by their total incidence rate. Europe and Asia lead with 10.6M and 10.1M respectively, followed closely by Africa and the Americas. Oceania records the lowest incidence rate across all regions.
 
-### Treatment Coverage Trend
-
-Tracks the average treatment coverage percentage year over year from 2015 to 2025. Coverage has remained largely stagnant at approximately 71% throughout the entire decade, highlighting a persistent and unresolved gap in global healthcare delivery.
-
 ---
 
 ### Key Findings from the Dashboard
@@ -97,11 +96,9 @@ The dashboard includes dynamic slicers that allow users to explore health data f
 
 ### Country Filter
 
+<img width="718" height="92" alt="image" src="https://github.com/user-attachments/assets/97ef7a87-293a-4ce4-ad2f-d8146dae4d6d" />
+
 Enables country-level analysis by filtering the dashboard to specific nations. Users can compare disease burden, treatment coverage, and demographic patterns across 34 countries spanning every global region.
-
-### Disease Filter
-
-Allows filtering by individual disease — Hepatitis B, HPV, HIV/AIDs, Chlamydia, or Syphilis. This enables focused analysis of disease-specific trends, mortality rates, and regional distribution patterns.
 
 ### Dynamic Cross-Filtering
 
@@ -201,5 +198,3 @@ The 25–49 age group carries 37% of the total global STI burden at 1.70 billion
 ## Author
 
 Soumyaditya Naskar
-
-[LinkedIn](#) | [GitHub](https://github.com/SoumyadityaNaskar)
