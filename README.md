@@ -4,6 +4,8 @@ An interactive Power BI dashboard developed to analyze global Sexually Transmitt
 
 The dashboard combines KPI monitoring, disease distribution analysis, demographic breakdowns, geographic visualization, treatment trend tracking, and business insight generation through dynamic slicers and interactive charts.
 
+<img width="800" height="450" alt="VideoProject211-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/73c5118e-cf1e-485b-80fd-3fcd5767ca9d" />
+
 
 
 ## Project Structure
